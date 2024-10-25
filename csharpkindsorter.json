@@ -1,0 +1,9 @@
+{
+  "KindOrder":  [ "Fields", "Constructors", "Finalizers", "Delegates", "Events", "Enums", "Interfaces", "Properties", "Operators", "Indexers", "Methods", "Structs", "Classes" ],
+  "AccessOrder": [ "public", "public explicit", "internal", "protected internal", "protected", "private" ],
+  "ConstFirst": true,
+  "StaticFirst": true,
+  "ReadonlyFirst": true,
+  "OverrideFirst": false,
+  "Alphabetical": true
+}
